@@ -1,0 +1,51 @@
+#my-marquee{
+    background-color: #0362fc;
+    color: white;
+    font-size: 20px;
+    
+}
+.my-navbar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+body{
+    text-align: center;
+scroll-behavior: smooth;
+    background-color: #f3ae00;
+}
+.achievements-head{
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    
+    
+}
+
+.achievements_head{
+    margin-top: 10px;
+    border-radius: 75px;
+    background-color: #23297a;;
+}
+
+#my-marquee{
+    background-color: #23297a;
+}
+.myNavbar{
+    background-color: #23297a;
+    color:#f3ae00;
+    margin-bottom: 10px;
+}
+li{
+    
+    font-weight: 900;
+}
+.movie-head{
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    
+}
+.movie-head i{
+    float: right;
+}
